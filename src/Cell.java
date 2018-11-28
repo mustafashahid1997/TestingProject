@@ -6,7 +6,7 @@ public class Cell {
     int[][] arr;
     int [] cells;
     int size;
-
+	int test;
 
     public Cell(int size)
     {
